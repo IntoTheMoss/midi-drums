@@ -2,6 +2,8 @@
 
 This project guide describes how to build a MIDI drum kit using piezo sensors, an Arduino Nano, and a Raspberry Pi Zero with FluidSynth and an Audio DAC SHIM for enhanced audio output.
 
+*Note this is a work in progress and has not been fully tested. Feel free to contribute!*
+
 ## Hardware Requirements
 
 * Raspberry Pi Zero with Raspberry Pi OS installed
